@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Mohith D K
+# 👋 Hey there! I'm Mohith 
 
 🎓 I’m a B.Tech student in **Artificial Intelligence & Machine Learning** at **P.E.S. University**.  
 💡 I love building cool projects, tackling hackathons, and exploring the frontiers of AI.
