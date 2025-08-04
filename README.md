@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Mohith 
 
-🎓 I’m a B.Tech student in **Artificial Intelligence & Machine Learning** at **P.E.S. University**.  
+🎓 I’m a B.Tech student in **Artificial Intelligence & Machine Learning** at **PES. University**.  
 💡 I love building cool projects, tackling hackathons, and exploring the frontiers of AI.
 
 ---
