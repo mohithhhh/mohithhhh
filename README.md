@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Mohith%20DK&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20engineer%20%C2%B7%20agents%20%C2%B7%20open%20source&descAlignY=58&descSize=18" alt="Mohith DK" width="100%"/>
+<img src="header.svg" alt="Mohith D K" width="100%"/>
 
 <a href="https://github.com/mohithhhh"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=7C9CFF&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+%40+Maersk;Building+LLM+systems+that+check+their+own+work;Open+source%3A+pydantic-ai+%C2%B7+REA;Bangalore%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/></a>
 
@@ -52,21 +52,6 @@ AI/ML Engineering Intern at **A P Moller – Maersk**, B.Tech CSE (AI/ML) from *
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [#10805](https://github.com/pydantic/pydantic-ai/pull/10805) raise `ContentFilterError` when Azure blocks a Responses API prompt without `content_filter_result` (fix + regression test) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square&logo=github&logoColor=white) |
 | [morluto/rea](https://github.com/morluto/rea) | [#6137](https://github.com/morluto/rea/pull/6137) fix reconstruction-ledger failure on whitespace-only graph labels (regression tests for both code paths) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square&logo=github&logoColor=white) |
 
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohithhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithhhh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=mohithhhh&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithhhh&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
-
-</div>
 
 ---
 
