@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.55" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <style>
+      @font-face { font-family: 'Space Grotesk'; font-weight: 700; src: url(data:font/woff2;base64,d09GMgABAAAAAAUUAA8AAAAACigAAAS7AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGjYbgXwcgQwGYD9TVEFUKgBkEQgKhkyFLwscAAE2AiQDNAQgBYQ6ByAbagjIBB542tT3/13sH1bzi1SMpKKkE9qxuNSwmJLNGWwOMxXauYZM3M///7VWV/R0jYo0epy9M/7+x2xFG2JJPYpFDiGJN5dGskZKREIlpIzNcOZKw7c+N2bUmP5WCgGYZlswE4FNcpqOUuJeJFrPDARZZO+N25AXPEdRwGrkNl9FA44+f2QAB6eAX0mgNzwywFgLoCP7S25FIQnJBp1MhCwy6dVZP06X/jWosX7OrN/PjG6ZPybZh7au0JSFgDkHCWmtgTrP2NdVkIlEd9jGUbQTEECT7UDLk9lWlD0bqbPn9Z+JaKgrN1Gt57K9I6w4X/Z1d/qZ2jcY7MNhCBy09UXM9JvLWmDSba7IVuZMIWMCOemRqboOkAnZApRjE7GT1SLfPNMVRVYN5uFuX/lLLsckor35/7ugR0WBiTgrCIjPZYrM9iuqNDXoORd5cGdXpNrSGxBH6EKswzCIuCZu0qmhuAvXvp+abKOcSroZJGJZua3rHusja691v3WfdYl1vnW2NaN6mkDesnCS1d48G7hSCLjFOpqpiR7XayfJuZzG+F9yuWwFDmV3zZjsmGLT8/yJtMiITxj25Dh67A0VsCdfF1r8NWVLvIKMvdqc2CviDxvJPcRSTSJ+2+IZ190k4ntVIgVKxCcmjOT4oxC7/f6CqWefD4YwNCXsyXGIvaGajOSEEPG0UkaGIY12IxRWbUoaGcYOY5ehqwy1Xe1U+oETznvoeSM5Po5U9x6ceAP8iXRa3F68Vd0bTSGO/HJs3J54TWhKGMLAQMmYYbCrqusMzZCHR55Cape4uNSMt3aFA4sCXeHWivCcdbtMz2Dx/8WDHm5/OjnXO3fwPeWXTc/b8+/d7/4za87l+QU/57naprrd+1flFxWV5+1Zpi1+7f1D774q5nTijmx/Y3vEPOXMU0851r3Tvgd7a0rrK06uLK2r8eJNHTt98sfTbshvWRm49Ys5k+fiTf12iH8yyvyWirVPPrjt7Xeb3I4vFc2ZfNSCY1dsblpbuH2fJdH5GzvXbN634oB/WWUvG/NsHa5x1WDNmKds5azSwc3lZT7lKyvzzP5OeRn6qhfWzDyi64gLoxee2HWinD93dxeHLM37pqDgm7z8dwoK3sH3Y/THU2Y+c5px8i72zAV5uQjDW86TY1vCj5rXptPyuan44d8Anzj3+3+Xs/i3bE37kgvvXJx3QXDOKUHrlv/f1dP6gA9CLyHgszxyBtYt/xXp6Y/hK+zaqezif5AX4pYjeLURvLILn1CslSHc4pmPw1iyXkoofJoD1NPOdrIJeL5RPdJ0mxXRz7dKz6HkE/y5FJCczfuAR+JpRDXWcmVap+CyaAazCUUzycMbcbAeGxP/HCkg/XanNROmm066iAx7RxhilM0U8nGjBBmhmyEipLtzAW/tw80gI3RSSDU+KqhnCD9BwhzIiFd5JWFG6WUlXgbpI0QTYUYuPG2QAUxW46aoPyKby3ROc4Rwdz34KMejptAEb61v5fgQh7ZNajnqREXDFpMGuuQTrhvVrJt7KHhhfH/G7IMx+ijNvcTKeCfdR7uOEcBNkHr2U0gHfXIBZn+8F/+l0KAB+xV1fSWNAi318LF4Q+tiVv+5AQ==) format('woff2'); }
+      .name { font-family: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 64px; fill: #fff; letter-spacing: -1px; }
+      .tag { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 18px; fill: #9db8d9; }
+    </style>
+  </defs>
+  <rect width="900" height="200" rx="12" fill="url(#g)"/>
+  <text x="450" y="104" text-anchor="middle" class="name">Mohith D K</text>
+  <text x="450" y="145" text-anchor="middle" class="tag">AI engineer · agents · open source</text>
+</svg>
