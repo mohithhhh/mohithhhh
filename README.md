@@ -4,6 +4,8 @@
 
 <a href="https://github.com/mohithhhh"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=7C9CFF&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+%40+Maersk;Building+LLM+systems+that+check+their+own+work;Open+source%3A+pydantic-ai+%C2%B7+REA;Bangalore%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/></a>
 
+</div>
+
 ---
 
 ### 👋 About
