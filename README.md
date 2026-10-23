@@ -1,53 +1,79 @@
-# 👋 Hey there! I'm Mohith
+<div align="center">
 
-🎓 B.Tech graduate in **Artificial Intelligence & Machine Learning** from **PES University**.
-💼 Currently an **AI Engineering Intern @ A.P. Moller - Maersk**.
-💡 I love building cool projects, tackling hackathons, and exploring the frontiers of AI.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Mohith%20DK&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20engineer%20%C2%B7%20agents%20%C2%B7%20open%20source&descAlignY=58&descSize=18" alt="Mohith DK" width="100%"/>
 
----
-
-### ⚙️ **Languages I use**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://github.com/mohithhhh"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=7C9CFF&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+%40+Maersk;Building+LLM+systems+that+check+their+own+work;Open+source%3A+pydantic-ai+%C2%B7+REA;Bangalore%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/></a>
 
 ---
 
-### 🛠️ **Tools & Technologies**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+### 👋 About
+
+AI/ML Engineering Intern at **A P Moller – Maersk**, B.Tech CSE (AI/ML) from **PES University**. I build LLM systems for production and care most about the part everyone skips: **checking the model's work**: confidence scoring, human-review routing, and deterministic validation against hallucination.
+
+- 💼 Maersk: AI document-extraction pipeline (GPT-4o vision + Azure Document Intelligence) running across 10+ countries, with Grafana observability and alerting
+- 📄 Published at ICCIS 2025 (Springer LNCS): *Temporal Belief Dynamics in BERT*
+- 🏆 Winner, HACK-AI 24-hour Data Analytics Hackathon
+- 🌍 Merged open-source fixes in `pydantic-ai` and `REA`
 
 ---
 
-### 🤖 **AI Engineering & Agentic Stack**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-171717?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge&logo=robotframework&logoColor=white)
-![LLM](https://img.shields.io/badge/LLMs-6E56CF?style=for-the-badge&logo=openai&logoColor=white)
+### 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,pytorch,tensorflow,docker,azure,postgres,mysql,mongodb,supabase,vercel,grafana,git&theme=dark" alt="skills"/>
+
+<sub>GPT-4o · Claude API · Gemini API · Hugging Face · Multi-agent systems · OCR · MCP · SSE · Claude Code</sub>
+
+</div>
 
 ---
 
-### ☁️ **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Provenance](https://github.com/mohithhhh/Provenance)** | AI-content detection beyond stylometry: watermarking, a paraphrase-robust retrieval ledger, and a live Attack Lab that red-teams every method | Python · TS |
+| **[Groundtruth](https://github.com/mohithhhh/Groundtruth)** | Ranks Bengaluru's 369 wards by heat risk, recommends interventions within budget, and verifies every figure before showing it | Gemini · ADK · BigQuery |
+| **[Il Colosseo](https://github.com/mohithhhh/Il-Colosseo)** ([live](https://ilcolosseo.vercel.app)) | Two Gemini agents debate any topic over three rounds with live web research, then an AI judge rules. Source-integrity gate, 10 Indian languages with voice | Gemini · FastAPI · SSE |
+| **[DawaiSathi](https://github.com/mohithhhh/Dawaisathi)** ([live](https://dawaisathi.vercel.app)) | Type or photograph a medicine and get plain-language usage, side effects and warnings in 11 Indian languages, plus cheaper Jan Aushadhi generics | Claude · Next.js · Supabase |
+| **[mcp-compensator](https://github.com/mohithhhh/mcp-compensator)** | Ctrl+Z for AI agents: an MCP proxy that journals mutating tool calls and can undo them | Python · MCP |
+| **[worth-a-ping](https://github.com/mohithhhh/worth-a-ping)** | Reads your inbox and only interrupts you when it's worth it, with a reason why | Python |
+| **[Aegis](https://github.com/mohithhhh/Aegis)** | Private recurring subscription payments on Starknet with publicly verifiable aggregates | TS · Starknet |
 
 ---
 
-### 🗄️ **Databases & Data Tools**
-![pgAdmin](https://img.shields.io/badge/pgAdmin-326690?style=for-the-badge&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 🌍 Open source
+
+| Repo | Contribution | Status |
+|---|---|---|
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [#10805](https://github.com/pydantic/pydantic-ai/pull/10805) raise `ContentFilterError` when Azure blocks a Responses API prompt without `content_filter_result` (fix + regression test) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square&logo=github&logoColor=white) |
+| [morluto/rea](https://github.com/morluto/rea) | [#6137](https://github.com/morluto/rea/pull/6137) fix reconstruction-ledger failure on whitespace-only graph labels (regression tests for both code paths) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square&logo=github&logoColor=white) |
+
 
 ---
 
-### 📫 **Let's connect**
-📍 Reach me on [LinkedIn](https://www.linkedin.com/in/mohith-d-k-76b815255/)
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohithhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithhhh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=mohithhhh&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithhhh&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mohithhhh-181717?style=for-the-badge&logo=github)](https://github.com/mohithhhh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohith%20D%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-d-k-76b815255/)
+[![Email](https://img.shields.io/badge/Email-mohithog7@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithog7@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" alt=""/>
+
+</div>
